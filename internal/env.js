@@ -1,1 +1,1 @@
-export const env={}
+export const env={"PUBLIC_SUPABASE_ANON_KEY":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFiaWd5emZ3bHZ0bnFvbW5pZXppIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjU2MDQ2MzYsImV4cCI6MjA4MTE4MDYzNn0.ewwRaOCDdk4fSZNWubvsxd84LjsW9NkpKS1Ppm6W6Kw","PUBLIC_SUPABASE_URL":"https://abigyzfwlvtnqomniezi.supabase.co","PUBLIC_AGORA_APP_ID":"b33f08ac3580440e8698983cae631f4a"}
